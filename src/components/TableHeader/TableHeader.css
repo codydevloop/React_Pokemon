@@ -1,0 +1,22 @@
+.codybuttonsgroup{
+   
+    /* display: flex;  */
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    background-color: white;
+    /* opacity: .5; */
+    border-radius: 2px;
+    border: black solid 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;    
+    
+
+
+
+}
+
+.btn{
+    color: white;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}

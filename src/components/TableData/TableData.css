@@ -1,0 +1,11 @@
+.tabledata{
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: rgb(83, 75, 75);
+    opacity: .8;
+    color: white; 
+    margin-top: 3px;
+}
+p{
+    margin-top: 8px;
+}

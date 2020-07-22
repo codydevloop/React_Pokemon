@@ -1,0 +1,76 @@
+[
+        {
+            "id": "1",
+            "name": "Exeggcute",
+            "type1": "Grass",
+            "type2": "Psychic",
+            "region":"Alola",
+            "fastAttack": "Confusion",
+            "specialAttack": "SeedBomb"
+        },
+
+        {
+            "id": "2",
+            "name": "Geodude",
+            "type1": "Rock",
+            "type2": "Ground",
+            "region":"Kanto",
+            "fastAttack": "Rock Throw",
+            "specialAttack": "Dig"
+        },
+        {
+            "id": "3",
+            "name": "Growlithe",
+            "type1": "Fire",
+            "type2": "",
+            "region":"Kanto",
+            "fastAttack": "Bite",
+            "specialAttack": "Body Slam"
+        },
+        {
+            "id": "4",
+            "name": "Pinsir",
+            "type1": "Bug",
+            "type2": "",
+            "region":"Kanto",
+            "fastAttack": "Fury Cutter",
+            "specialAttack": "Superpower"
+        },
+        {
+            "id": "5",
+            "name": "Venipede",
+            "type1": "Bug",
+            "type2": "Poison",
+            "region":"Galar",
+            "fastAttack": "Poison Sting",
+            "specialAttack": "Signal Beam"
+        },
+        {
+            "id": "6",
+            "name": "Murkrow",
+            "type1": "Dark",
+            "type2": "Flying",
+            "region":"Johto",
+            "fastAttack": "Peck",
+            "specialAttack": "Dark Pulse"
+        },
+        {
+            "id": "7",
+            "name": "Pikachu",
+            "type1": "Electric",
+            "type2": "",
+            "region":"Kanto",
+            "fastAttack": "Quick Attack",
+            "specialAttack": "Fly"
+        },
+        {
+            "id" : "8",
+            "name": "Foongus",
+            "type1": "Grass",
+            "type2": "Poison",
+            "region":"Unova",
+            "fastAttack": "Astonish",
+            "specialAttack": "Grass Knott"
+        }
+
+]
